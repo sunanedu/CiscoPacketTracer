@@ -44,7 +44,7 @@
 
 - ใบงาน: [lab-03-building-the-first-lan.md](worksheets/unit-01/lab-03-building-the-first-lan.md)
 
-### 📝 แล็บที่ 4: การทำงานของ ARP, ICMP และ Simulation Mode
+### ✅ แล็บที่ 4: การทำงานของ ARP, ICMP และ Simulation Mode
 
 ติดตามการทำงานของ ARP และ ICMP ผ่าน Simulation Mode เพื่อทำความเข้าใจการค้นหา MAC Address และการส่ง Echo Request/Echo Reply
 

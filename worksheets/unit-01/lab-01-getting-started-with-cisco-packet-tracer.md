@@ -73,6 +73,10 @@
            PC1       PC2
 ```
 
+## ภาพร่าง
+![ภาพ](01.png)
+
+
 ## 6. ตารางกำหนด IP Address
 
 ในแล็บนี้ยังไม่มีการกำหนด IP Address, Subnet Mask และ Default Gateway
