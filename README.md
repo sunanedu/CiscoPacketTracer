@@ -32,13 +32,13 @@
 
 - ใบงาน: [lab-01-getting-started-with-cisco-packet-tracer.md](worksheets/unit-01/lab-01-getting-started-with-cisco-packet-tracer.md)
 
-### 📝 แล็บที่ 2: รู้จักอุปกรณ์เครือข่าย พอร์ต และสายสัญญาณ
+### ✅ แล็บที่ 2: รู้จักอุปกรณ์เครือข่าย พอร์ต และสายสัญญาณ
 
 เรียนรู้หน้าที่ของ PC, Server, Switch, Router และ Access Point รวมถึงการเลือกใช้สาย Copper Straight-Through, Copper Crossover, Console และ Fiber
 
 - ใบงาน: [lab-02-network-devices-ports-and-cables.md](worksheets/unit-01/lab-02-network-devices-ports-and-cables.md)
 
-### 📝 แล็บที่ 3: สร้างเครือข่าย LAN แรก
+### ✅ แล็บที่ 3: สร้างเครือข่าย LAN แรก
 
 สร้างเครือข่ายจาก PC และ Switch กำหนด IPv4 Address และ Subnet Mask แบบ Static แล้วทดสอบการสื่อสารด้วยคำสั่ง `ping`
 
