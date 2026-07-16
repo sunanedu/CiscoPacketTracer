@@ -54,13 +54,13 @@
 
 ## หน่วยที่ 2: IPv4 และระบบ Switching
 
-### 📝 แล็บที่ 5: IPv4 Address, Subnet Mask และ Default Gateway
+### ✅ แล็บที่ 5: IPv4 Address, Subnet Mask และ Default Gateway
 
 เรียนรู้ส่วนประกอบของ IPv4 Address การแยก Network ID และ Host ID ตลอดจนหน้าที่ของ Subnet Mask และ Default Gateway
 
 - ใบงาน: [lab-05-ipv4-addressing-subnet-mask-and-default-gateway.md](worksheets/unit-02/lab-05-ipv4-addressing-subnet-mask-and-default-gateway.md)
 
-### 📝 แล็บที่ 6: การแบ่งเครือข่ายด้วย Subnetting และ VLSM
+### ✅ แล็บที่ 6: การแบ่งเครือข่ายด้วย Subnetting และ VLSM
 
 ฝึกคำนวณ Network Address, Broadcast Address, ช่วงหมายเลข IP ที่ใช้งานได้ และออกแบบเครือข่ายย่อยให้เหมาะกับจำนวน Host
 
