@@ -66,13 +66,13 @@
 
 - ใบงาน: [lab-06-subnetting-and-vlsm.md](worksheets/unit-02/lab-06-subnetting-and-vlsm.md)
 
-### 📝 แล็บที่ 7: การตั้งค่าพื้นฐานด้วย Cisco IOS CLI
+### ✅ แล็บที่ 7: การตั้งค่าพื้นฐานด้วย Cisco IOS CLI
 
 เรียนรู้โหมดคำสั่งของ Cisco IOS การกำหนด Hostname และรหัสผ่าน การตั้งค่า Interface การตรวจสอบ Running Configuration และการบันทึกค่า
 
 - ใบงาน: [lab-07-basic-cisco-ios-configuration.md](worksheets/unit-02/lab-07-basic-cisco-ios-configuration.md)
 
-### 📝 แล็บที่ 8: Switch และ MAC Address Table
+### ✅ แล็บที่ 8: Switch และ MAC Address Table
 
 เรียนรู้วิธีที่ Switch เรียนรู้ MAC Address การส่งต่อ Frame การตรวจสอบ MAC Address Table และการกำหนด Management IP ให้กับ Switch
 
@@ -82,13 +82,13 @@
 
 ## หน่วยที่ 3: การแบ่งเครือข่ายและ Routing
 
-### 📝 แล็บที่ 9: การใช้ Router เชื่อมต่อสองเครือข่าย LAN
+### ✅ แล็บที่ 9: การใช้ Router เชื่อมต่อสองเครือข่าย LAN
 
 กำหนด IP Address ให้ Interface ของ Router เชื่อมต่อ LAN สองเครือข่าย และกำหนด Default Gateway ให้กับเครื่องปลายทาง
 
 - ใบงาน: [lab-09-router-connects-two-lans.md](worksheets/unit-03/lab-09-router-connects-two-lans.md)
 
-### 📝 แล็บที่ 10: Static Route และ Default Route
+### ✅ แล็บที่ 10: Static Route และ Default Route
 
 เชื่อมต่อ Router หลายตัว สร้างเส้นทางแบบ Static และ Default Route ตรวจสอบ Routing Table และทดสอบเส้นทางด้วย `ping` และ `tracert`
 
